@@ -1,0 +1,156 @@
+---
+title: "STAT 3220 Unit 1"
+output:
+  html_document:
+    df_print: paged
+---
+
+The Philadelphia Eagles had a shocking season in 2017-18 when they ultimately beat the New England Patriots and won the Super Bowl on February 4, 2018. "Could anyone have predicted that?" is a question that went wild during and after the season. We will use league data from the 2016-17 season to build your model, then use that model to predict the wins for the Eagles in the 2017-18 season.
+
+-   TM: Team Name
+-   Code: Official league abbreviation of the team name
+-   W: Games won in the 2016 regular season (RESPONSE VARIABLE)
+-   OffPY: Offensive Passing Yards in the 2016 regular season
+-   OffRY: Offensive Rushing Yards in the 2016 regular season
+-   PA: Points Scored Against in the 2016 regular season
+-   FPG: Field Goal Percentage (FG made/FG attempted) in the 2016 regular season
+-   Penalty: Total Offensive and Defensive Penalty Yards in the 2016 regular season
+-   TurnoverDiff: Turnover Differential (turnovers acquired - turnovers lost) in the 2016 regular season
+-   OppPY: Opponents' Passing Yards in the 2016 regular season
+-   OppRY: Opponents' Rushing Yards in the 2016 regular season
+
+# Step 1: Collect the Data
+
+-   The data were compiled from <https://www.pro-football-reference.com/years/2016/> and ESPN. We have no reason to question the validity of these sources.
+-   **Check the appropriateness of response variable for regression**: View a histogram of response variable. It should be continuous, and approximately unimodal and symmetric, with few outliers.
+
+```{r}
+nfl2016<-read.csv("https://raw.githubusercontent.com/kvaranyak4/STAT3220/main/nfl2016.csv")
+head(nfl2016)
+
+hist(nfl2016$W, xlab="Wins", main="Histogram of Wins") 
+```
+
+# Step 2: Hypothesize Relationship (Exploratory Data Analysis)
+
+We explore the scatter plots and correlations for each explanatory variable then classify the relationships as linear, curvilinear, or none.
+
+```{r,comment=NA}
+
+names(nfl2016)
+
+for (i in names(nfl2016)[4:11]) {
+  plot(nfl2016[,i], nfl2016$W,xlab=i,ylab="Wins")
+}
+
+round(cor(nfl2016[4:11],nfl2016$W),3)
+
+```
+
+-   We see TurnoverDiff (r=0.759) and PA (r=-0.675 have the strongest linear relationships. Potentially, OppRY has a curvilinear relationship.
+-   Therefore, our hypothesized model is:
+
+> $wins=\beta_0+\beta_1 TurnoverDiff+\beta_2 PA+\beta_3 OppRy+\beta_4 OppRy^2+\epsilon$
+
+# Step 3: Estimate the model parameters (fit the model using R)
+
+```{r,comment=NA}
+nfl1<-lm(W~TurnoverDiff+PA+OppRY+I(OppRY^2),data=nfl2016)
+summary(nfl1)
+round(coef(nfl1),4)
+```
+
+    The prediction equation is:
+
+$\widehat{wins}=17.78+0.21TurnoverDiff-0.016PA-0.002OppRy-.0000OppRy^2$
+
+# Step 4: Specify the distribution of the errors and find the estimate of the variance
+
+-   $\epsilon \overset{\mathrm{iid}}{\sim} N(0,\sigma^2 )$
+-   estimate of $\sigma^2$ is $MSE=3.09$
+-   estimate of $\sigma$ is $\sqrt{MSE}=1.76$
+-   Approximately 95% of our predictions will be within 2\*1.76=3.52 games of the actual number of wins. (This is not great considering there are only 16 games.)
+
+# Step 5: Evaluate the Utility of the model
+
+> $wins=\beta_0+\beta_1 TurnoverDiff+\beta_2 PA+\beta_3 OppRy+\beta_4 OppRy^2+\epsilon$
+
+### First we Perform the Global F Test:
+
+-   Hypotheses:
+
+    -   $H_0: \beta_1= \beta_2=\beta_3=\beta_4=0$ (the model is not adequate)
+    -   $H_a$:at least one of $\beta_1 , \beta_2 , \beta_3,\beta_4$ does not equal 0 (the model is adequate)
+
+-   *Distribution of test statistic*: F with 4, 27 DF
+
+-   *Test Statistic*: F=18.94
+
+-   *Pvalue*: \<0.0001
+
+-   *Decision*: 0.0001\<0.05 -\> REJECT H0
+
+-   *Conclusion*: The model with Turnover Differential, Points Against, Opponents Rushing Yards, and Opponents Rushing Yards squared is adequate at predicting wins.
+
+### Then we test "the most important predictors": Test the Individual Significance of OppRy\^2
+
+-  *Hypotheses*:
+    -   $H_0: \beta_4=0$ (the quadratic relationship does not contribute to predicting wins)
+    -   $H_a:\beta_4 \neq 0$ (the quadratic relationship contributes to predicting wins)
+-   *Distribution of test statistic*: T with 27 DF
+-   *Test Statistic*: t=-0.04
+-   *Pvalue*: 0.9685
+-   *Decision*: 0.97\>0.05 -\> FAIL TO REJECT H0
+-   *Conclusion*: The quadratic relationship of opponents rushing yards does not contribute information for predicting a team's wins. We will remove just the higher order term and refit the model.
+
+### Refit the model 
+
+Refitting the model can change significance of other variables and will always change the beta estimates. Here the estimates changed only slightly because the term we removed was not significant.
+
+```{r,comment=NA}
+nfl2<-lm(W~TurnoverDiff+PA+OppRY,data=nfl2016)
+summary(nfl2)
+round(coef(nfl2),4)
+round(confint(nfl2),4)
+```
+
+
+> $\widehat{wins}=18.16+0.21TurnoverDiff-0.016PA-0.002OppRy$
+
+We see from the global F test this is significant, and OppRy is significant in the model.
+
+### Further Assessment:
+- **Root MSE**: 1.73 (slightly better than the model with higher order term)
+- **Adjusted R-Sq**: 0.7091 (better than model with higher order term, and it is closer to R2)
+  - 70\% of hte variation in wins explained by the model with turnover differential, points against, and opponent's rushing yards.
+
+- **Confidence Interval for Betas**: We are 95\% confident that for each increase in turnover differential, the estimated number of wins increases by between 0.13 and 0.29, while point against and opponents rushing yards remains constant.
+
+# Step 6: Check the Model Assumptions
+
+We will cover this in Unit 3
+
+
+# Step 7: Use the model for prediction or estimation
+
+
+```{r,comment=NA}
+nfl2<-lm(W~TurnoverDiff+PA+OppRY,data=nfl2016)
+# The Eagles are observation 25
+predict(nfl2)
+nfl2$fitted.values[25]
+
+# Or we can create a data frame with the new values.
+new<-data.frame("TurnoverDiff"=6,"PA"=331,OppRY=1652)
+new
+predict(nfl2,new, interval="prediction")
+
+```
+
+- Now it is time to go back to our original research question- Could we have predicted the number of wins for the Eagles in the 2017 season from the 2016 season? In the 2016 season the Eagles had 3585 offensive passing yards; 1813 offensive rushing yards; 331 points against; 85.4% FPG; 212 penalty yards; 6 turnover differential; 3832 opponents’ passing yards; and 1652 opponents’ rushing yards. Note this is also observation 25 in the data. 
+
+  - If we use this model and the statistics form the 2016 season, we would have predicted the Eagles to win 9.9554 games. Further, we are 95% confident that the Eagles would win between 6.33 and 13.58 games, given their statistics in 2016. 
+
+- The Eagles won 13 regular season games in 2017. How accurate was this model at predicting?
+  - Although this model did well for prediction because our confidence interval contained the realized response, and overall, this model is good for predicting, we should not be used for prediction beyond this season. We should update this model with recent data if we want to continue using it.
+
