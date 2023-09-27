@@ -1,0 +1,615 @@
+﻿Anxiety,Stream,Working,Foreignlanguage,FavGenre,Age,Hours,BPM,Depression,Insomnia
+8,Spotify,No,No,Folk,35,3,0,2,2
+8,Spotify,No,Yes,Metal,28,3,0,8,5
+5,Pandora,Yes,Yes,R&B,73,3,4,4,0
+10,Pandora,Yes,No,Gospel,68,1,8,10,10
+10,Spotify,Yes,Yes,Hip hop,18,2,20,7,2
+3,Spotify,Yes,Yes,Classical,14,5,40,0,2
+4,Spotify,Yes,Yes,Rock,19,6,52,2,0
+6,Spotify,Yes,Yes,Folk,23,7,55,4,2
+3,Spotify,Yes,Yes,Gospel,18,8,56,0,2
+7,YouTube Music,Yes,No,Pop,41,4,60,2,0
+6,Spotify,Yes,No,Pop,25,1.5,61,5,0
+7,Spotify,Yes,No,Rock,21,4,62,4,6
+8,Spotify,Yes,No,Folk,22,6,63,7,7
+4,YouTube Music,Yes,Yes,Video game music,18,3,66,8,6
+10,Spotify,Yes,Yes,Rock,23,3,66,7,0
+5,YouTube Music,No,No,Rock,18,0.5,66,3,1
+2,YouTube Music,Yes,No,Rock,63,8,70,1,2
+8,Spotify,Yes,Yes,Metal,17,1,70,3,9
+2,Spotify,Yes,No,Pop,22,2,72,7,1
+1,Pandora,Yes,Yes,Classical,69,4,72,1,2
+8,YouTube Music,No,No,Hip hop,23,4,72,10,4
+3,Spotify,No,No,Rock,28,1,72,1,0
+3,YouTube Music,No,Yes,Rap,19,3,73,3,0
+10,Apple Music,Yes,Yes,Latin,18,5,73,6,0
+0,Spotify,Yes,No,Classical,16,1,75,0,0
+9,Spotify,Yes,Yes,Classical,24,3,75,6,1
+7,Spotify,Yes,No,Pop,23,2,75,6,4
+9,Spotify,Yes,Yes,Rock,19,3,76,10,4
+7,Spotify,Yes,No,Pop,17,2,76,6,0
+2,Spotify,Yes,No,Rock,14,3,76,6,3
+1,Spotify,Yes,Yes,Metal,18,4,77,0,8
+5,Spotify,Yes,Yes,R&B,19,3,77,4,0
+6,Spotify,Yes,Yes,Hip hop,22,3,77,6,8
+0,Spotify,Yes,No,Rock,72,6,77,1,0
+7,Spotify,Yes,Yes,Hip hop,23,4,78,6,7
+6,Apple Music,Yes,No,Pop,14,2,78,0,0
+6,Spotify,Yes,Yes,Pop,19,6,78,6,8
+3,Spotify,Yes,Yes,Pop,18,2,79,3,8
+3,Spotify,Yes,Yes,Lofi,17,4,79,8,0
+4,YouTube Music,Yes,No,Video game music,23,2,80,2,3
+3,YouTube Music,Yes,Yes,Video game music,22,1,80,3,0
+7,YouTube Music,Yes,No,Rock,33,0.5,80,9,4
+8,YouTube Music,Yes,No,Classical,13,3,80,7,9
+0,YouTube Music,Yes,No,Classical,58,1,80,0,2
+7,Spotify,Yes,Yes,Pop,25,1,80,6,5
+10,Spotify,No,Yes,Hip hop,20,3,80,7,4
+7,Spotify,Yes,Yes,K pop,19,2,80,6,5
+8,Spotify,Yes,Yes,Folk,18,6,80,6,0
+8,Spotify,No,Yes,R&B,18,4,80,7,2
+7,Apple Music,Yes,No,R&B,18,2,80,5,5
+2,Spotify,Yes,Yes,Pop,35,1,81,1,1
+8,Spotify,Yes,Yes,Video game music,14,4,81,6,5
+3,Spotify,No,Yes,R&B,21,1,81,0,0
+2,Spotify,Yes,No,Jazz,24,8,81,2,4
+9,YouTube Music,Yes,Yes,Jazz,61,2.5,84,7,3
+6,Spotify,No,No,Video game music,15,3,84,6,2
+8,Spotify,Yes,Yes,Hip hop,17,7,84,9,3
+4,Spotify,Yes,No,Metal,32,2,84,3,1
+7,Spotify,Yes,No,Lofi,16,4,85,1,3
+5,Spotify,Yes,Yes,Pop,21,1,85,1,0
+8,Spotify,Yes,Yes,Hip hop,21,3,85,8,3
+8,Spotify,Yes,No,EDM,16,15,85,10,9
+3,Spotify,Yes,No,Hip hop,20,4,85,2,1
+2,Spotify,Yes,Yes,Rock,42,2,85,4,5
+7,Spotify,Yes,Yes,Metal,42,2,85,8,5
+8,Spotify,Yes,Yes,Jazz,18,5,86,8,7
+6,Spotify,No,No,Metal,24,1,86,4,5
+3,YouTube Music,No,No,Pop,20,1,86,5,3
+6,Spotify,Yes,No,Country,21,3,86,5,5
+1,Spotify,No,Yes,R&B,22,2,87,1,4
+6,Spotify,Yes,Yes,Folk,15,5,87,7,7
+2,Spotify,Yes,No,Country,19,2,88,1,2
+6,Spotify,Yes,Yes,Pop,21,4,89,8,0
+9,Spotify,Yes,Yes,Folk,30,6,89,0,5
+6,Spotify,Yes,Yes,Hip hop,39,1,89,4,1
+7,Spotify,Yes,Yes,Video game music,18,3,89,0,3
+4,Spotify,Yes,Yes,R&B,20,6,89,1,1
+7,Spotify,Yes,Yes,Pop,19,3,90,4,2
+10,Spotify,No,Yes,Rock,19,5,90,8,7
+9,Spotify,Yes,Yes,Country,35,4,90,9,5
+10,Spotify,Yes,Yes,Rock,22,3,90,10,4
+3,Spotify,Yes,Yes,Jazz,18,16,90,2,5
+0,Spotify,Yes,Yes,EDM,18,6,90,2,1
+5,Spotify,Yes,No,Hip hop,18,2,90,4,3
+6,Spotify,Yes,Yes,Jazz,26,3,90,8,0
+7,Spotify,No,Yes,Rock,16,3,90,3.5,3.5
+7,Spotify,Yes,No,Hip hop,35,4,90,8,6
+9,Apple Music,Yes,No,EDM,18,18,90,8,5
+8,Spotify,Yes,No,Rock,18,6,91,6,2
+10,Spotify,Yes,Yes,Rock,32,5,91,10,3
+8,Spotify,Yes,No,Rock,32,6,91,7,0
+7,Spotify,Yes,Yes,Lofi,25,2,91,8,6
+5,YouTube Music,Yes,Yes,EDM,18,6,91,5,7
+0,Spotify,Yes,Yes,Pop,53,7,92,0,0
+8,Spotify,Yes,Yes,Metal,31,2,92,6,7
+9,Spotify,Yes,Yes,Metal,21,10,92,10,2
+3,Spotify,Yes,Yes,Folk,23,6,92,7,7
+4,Spotify,Yes,Yes,Folk,26,5,92,7,6
+2,YouTube Music,Yes,Yes,Hip hop,18,4,93,7,1
+0,Spotify,Yes,Yes,Rock,17,2,93,8,0
+7,Apple Music,Yes,Yes,Rock,24,2,93,7,0
+7,Spotify,Yes,Yes,Jazz,20,8,93,6,7
+10,Spotify,Yes,No,Rock,22,4,93,7,4
+3,YouTube Music,Yes,Yes,R&B,23,3,93,10,0
+2,Spotify,Yes,No,Rock,19,6,94,0,0
+5,Spotify,Yes,No,Jazz,17,2,94,2,3
+7,Spotify,Yes,Yes,Pop,19,1,94,5,1
+2,Pandora,Yes,No,Rock,61,2,94,2,2
+5,Spotify,Yes,Yes,K pop,21,1,95,3,5
+4,Spotify,Yes,Yes,Metal,17,5,95,1,0
+5,Spotify,Yes,No,Rock,27,1.5,95,5,4
+7,Spotify,No,,Metal,31,2,95,6,6
+8,Spotify,Yes,No,Video game music,23,5,95,7,0
+3,Spotify,Yes,Yes,Lofi,14,7,95,2,8
+0,Spotify,Yes,Yes,Classical,34,3,95,0,0
+5,YouTube Music,Yes,Yes,Pop,17,8,95,2,4
+3,Spotify,Yes,Yes,Pop,23,12,96,7,5
+3,Spotify,Yes,No,Rock,16,4,96,0,6
+3,Spotify,Yes,No,R&B,18,2,96,3,0
+9,Spotify,Yes,No,Rock,37,4,97,2,7
+8,Spotify,Yes,No,Rock,15,6,97,3,5
+10,Spotify,Yes,Yes,Rock,21,2,97,10,2
+2,Spotify,Yes,No,R&B,18,2,97,4,0
+4,Spotify,Yes,No,Pop,21,4,97,6,3
+8,Spotify,Yes,Yes,Rock,22,2,98,6,0
+7,Spotify,Yes,Yes,K pop,18,2,98,2,3
+7,Apple Music,No,Yes,Rock,20,12,98,10,2
+2,YouTube Music,Yes,Yes,Hip hop,29,2,98,2,2
+7,Spotify,Yes,No,Rap,17,24,99,5,0
+10,Spotify,Yes,Yes,Hip hop,19,5,99,7,0
+7,Spotify,Yes,Yes,Pop,19,8,99,2,1
+8,YouTube Music,No,No,Folk,44,1.5,99,5,9
+6,Spotify,Yes,Yes,Metal,23,2,100,3,0
+4,Spotify,Yes,Yes,K pop,19,8,100,3,0
+6,Spotify,Yes,Yes,Folk,29,2,100,5,4
+8,Spotify,Yes,Yes,Pop,27,2,100,7,7
+3,Spotify,No,No,Pop,18,1,100,2,0
+4,Spotify,Yes,Yes,EDM,16,3,100,2,0
+2,YouTube Music,Yes,Yes,Metal,27,3,100,0,1
+2,YouTube Music,Yes,No,Classical,20,3,100,3,3
+8,Spotify,Yes,No,Rock,37,2,100,10,10
+5,Spotify,No,Yes,K pop,18,1,100,1,4
+3,YouTube Music,Yes,Yes,Pop,18,6,101,2,1
+8,Spotify,Yes,Yes,Video game music,18,2,101,3,8
+7,Spotify,Yes,No,Rock,32,8,101,6,5
+9,Spotify,Yes,No,Pop,15,2,102,8,10
+5,Spotify,No,No,EDM,20,1,102,9,6
+8,Spotify,Yes,Yes,Hip hop,16,8,103,8,4
+2,Spotify,Yes,Yes,Rock,16,2.5,103,1,0
+6,Spotify,Yes,Yes,Classical,31,4,103,8,9
+5,YouTube Music,Yes,No,Country,22,6,103,5,3
+1,YouTube Music,Yes,No,Pop,59,2,103,1,3
+10,YouTube Music,Yes,Yes,Folk,24,1,103,10,7
+3,YouTube Music,Yes,No,Rock,26,6,104,2,0
+5,Spotify,Yes,No,Metal,17,3,104,6,9
+6,Apple Music,Yes,Yes,Pop,18,2,104,5,8
+4,Spotify,Yes,Yes,Metal,19,4,105,1,1
+8,Spotify,Yes,No,Rock,15,4,105,6,4
+4,YouTube Music,No,Yes,Rap,15,2,105,0,6
+7,Spotify,No,No,Rock,44,2,105,7,2
+8,Spotify,Yes,Yes,Pop,18,1,105,7,7
+8,Spotify,Yes,No,Country,17,1,105,5,2
+3,Apple Music,Yes,No,Folk,21,1.5,105,3,1
+0,Spotify,No,No,Rock,16,10,105,0,0
+3,Spotify,Yes,No,Pop,15,4,105,5,4
+5,Apple Music,Yes,No,Rock,21,1,105,1,1
+8,Spotify,Yes,Yes,Rock,27,3,105,7,9
+1,YouTube Music,Yes,Yes,Country,36,3,105,0,1
+10,Spotify,Yes,Yes,Video game music,23,4,105,8,10
+10,Spotify,Yes,Yes,Pop,16,6,105,7,6
+6,Spotify,Yes,No,Classical,14,4,106,8,8
+7,Spotify,Yes,No,R&B,18,4,107,2,5
+8,YouTube Music,Yes,Yes,Metal,21,2,107,4,10
+0,Spotify,Yes,No,EDM,25,1,107,8,0
+9,Spotify,Yes,Yes,Pop,38,6,107,4,9
+8,Spotify,Yes,Yes,Rock,21,10,107,7,6
+8,Pandora,No,No,Rock,22,1,108,7,0
+0,Spotify,Yes,No,Country,21,3,108,8,0
+8,Spotify,No,Yes,Rock,18,1,108,9,6
+8,Apple Music,Yes,Yes,Rock,29,1.5,108,7,1
+7,Spotify,Yes,No,Pop,22,1,108,4,0
+10,Spotify,Yes,Yes,Metal,26,5,109,9,8
+7,Apple Music,Yes,No,Country,19,8,109,5,6
+7,Spotify,Yes,Yes,Classical,12,0.5,109,8,6
+7,Spotify,Yes,No,Country,18,3,110,7,4
+9,Spotify,Yes,Yes,Hip hop,25,3,110,3,2
+7,Spotify,No,Yes,Pop,17,2,110,5,4
+7,Apple Music,Yes,Yes,Rock,20,5,110,7,2
+9,Spotify,Yes,Yes,Metal,19,6,110,8,2
+0,Apple Music,Yes,No,Classical,16,2,110,0,1
+10,Spotify,Yes,Yes,Rock,31,2,110,2,0
+9,Spotify,Yes,Yes,Rock,16,4,110,8,1
+7,Spotify,Yes,Yes,R&B,19,10,110,2,1
+2,Spotify,Yes,No,Jazz,14,7,110,0,0
+6,YouTube Music,Yes,No,Rock,36,1,110,2,3
+10,YouTube Music,Yes,No,Metal,21,3,110,0,10
+7,Spotify,No,Yes,Rock,23,2,110,8,5
+6,YouTube Music,Yes,No,Video game music,29,1,110,6,1
+6,Apple Music,Yes,Yes,Pop,18,2,110,5,2
+0,YouTube Music,Yes,No,Pop,16,3,110,0,4
+10,Spotify,No,No,Rock,26,1,110,7,2
+1,Spotify,Yes,Yes,Metal,21,2,110,3,0
+5,Spotify,Yes,Yes,Pop,17,2,110,3,2
+1,Spotify,Yes,Yes,Rock,34,1,110,0,0
+8,YouTube Music,Yes,No,Pop,18,1.5,110,6,5
+4,Spotify,No,Yes,Rock,38,0.5,110,6,6
+7,Spotify,Yes,Yes,Rock,17,2,110,3,1
+7,Apple Music,Yes,No,R&B,25,2.5,110,6,5
+2,Spotify,Yes,No,Rock,26,5,110,9,2
+7,Spotify,Yes,Yes,Rock,26,2,110,5,6
+3,Spotify,Yes,Yes,Video game music,22,1,110,6,1
+9,Spotify,Yes,No,Rock,22,3,110,10,3
+5,Spotify,No,No,Metal,16,2.5,110,3,3
+6,Spotify,Yes,Yes,K pop,19,3,110,0,3
+8,Spotify,Yes,Yes,K pop,15,6,110,8,7
+7,Spotify,No,Yes,Hip hop,23,0.5,110,7,6
+10,Spotify,Yes,No,Rock,18,10,110,10,6
+10,YouTube Music,Yes,No,Metal,22,8,110,7,8
+8,Spotify,Yes,No,Rock,25,3,110,9,4
+7,Spotify,Yes,No,Rock,17,5,110,3,9
+4,Spotify,Yes,Yes,Classical,21,1.5,110,6,0
+2,Spotify,Yes,Yes,Country,17,4,110,0,0
+9,Spotify,Yes,Yes,Rock,19,5,111,9,9
+1,Spotify,Yes,No,Metal,19,6,111,0,0
+7,Spotify,Yes,No,Rock,16,2,112,4,10
+8,YouTube Music,Yes,Yes,Pop,10,2,112,2,1
+4,Spotify,Yes,No,Rap,13,6,112,0,0
+8,Apple Music,Yes,Yes,Pop,22,7,112,8,10
+3,Spotify,Yes,No,Pop,16,3,112,4,6
+8,Spotify,Yes,No,Rock,30,8,112,6,6
+7,Apple Music,No,No,Hip hop,22,0.5,113,7,0
+3,Spotify,No,No,R&B,26,1,113,2,0
+9,Spotify,Yes,Yes,Pop,41,3,113,7,6
+9,Apple Music,Yes,Yes,R&B,20,4,113,10,3
+4,YouTube Music,No,Yes,Folk,31,1,113,1,3
+6,Apple Music,Yes,Yes,Pop,17,3,113,2,3
+8,YouTube Music,No,No,Classical,22,3,113,2,4
+7,YouTube Music,Yes,No,Pop,27,3,113,2,0
+8,Spotify,Yes,Yes,K pop,19,3,114,9,6
+8,Apple Music,Yes,Yes,Lofi,33,4,114,8,2
+3,YouTube Music,No,No,Classical,49,0.5,114,2,2
+4,Spotify,Yes,Yes,K pop,14,2,114,4,2
+7,YouTube Music,Yes,No,Pop,18,1,114,1,1
+9,Spotify,Yes,Yes,Rock,24,3,115,6,4
+9,Spotify,Yes,No,Rock,37,1,115,10,6
+3,Spotify,No,Yes,Rock,34,0,115,7,8
+8,Spotify,No,No,Rock,18,2,115,3,1
+2,Spotify,Yes,Yes,K pop,16,3,115,7,0
+7,Spotify,Yes,Yes,Rap,19,3,115,5,3
+6,Spotify,Yes,Yes,Pop,24,2,115,6,3
+3,Spotify,Yes,No,Hip hop,19,3,115,8,0
+9,YouTube Music,Yes,Yes,Rock,30,1,115,7,8
+2,Apple Music,No,Yes,Rap,18,1,116,0,3
+9,Spotify,Yes,Yes,Folk,17,2,116,4,0
+7,Spotify,No,Yes,Metal,23,2,117,3,2
+9,Apple Music,Yes,Yes,Pop,17,2,117,8,4
+6,Apple Music,Yes,No,Pop,56,8,117,4,1
+3,Spotify,Yes,No,Jazz,19,3,118,0,0
+6,Spotify,Yes,Yes,R&B,17,2,118,1,0
+10,Spotify,Yes,No,Rock,18,3,118,2,0
+7,Spotify,Yes,Yes,Country,19,5,118,6,8
+8,Spotify,Yes,No,Folk,13,2.5,118,0,0
+9,Spotify,Yes,No,Classical,15,3,118,6,8
+8,Spotify,Yes,Yes,Rock,24,6,118,8,10
+7,Pandora,Yes,No,Rock,63,1.5,119,2,2
+3,Pandora,Yes,No,Gospel,60,2,119,0,2
+8,Spotify,No,Yes,Country,20,3,119,4,3
+8,Spotify,Yes,Yes,Pop,27,1,119,3,3
+10,Spotify,No,No,Rock,22,2,119,5,2
+5,Spotify,Yes,Yes,Hip hop,16,12,120,7,10
+7,Spotify,No,No,Hip hop,15,3,120,3,0
+6,Apple Music,Yes,Yes,Hip hop,15,8,120,9,3
+4,Spotify,Yes,No,Classical,19,2,120,4,4
+3,Spotify,Yes,No,Pop,18,5,120,2,1
+6,Spotify,Yes,Yes,Classical,17,3,120,6,8
+6,YouTube Music,No,No,Rock,28,1,120,6,2
+7,Spotify,Yes,No,Rock,13,2,120,10,5
+10,Spotify,Yes,Yes,Pop,32,7,120,8,2
+3,Spotify,No,No,Metal,34,2,120,7,0
+7,Spotify,No,No,Pop,25,2,120,7,5
+7,YouTube Music,Yes,No,Pop,22,2,120,7,8
+8,Spotify,Yes,Yes,Rock,20,3,120,5,2
+2,Spotify,Yes,Yes,Pop,25,7,120,0,1
+3,Apple Music,Yes,Yes,Metal,40,2,120,6,2
+6,Spotify,Yes,Yes,Metal,23,5,120,9,2
+7,Spotify,Yes,Yes,Pop,19,2,120,5,0
+8,Apple Music,Yes,No,Pop,17,3,120,10,9
+8,Apple Music,Yes,No,Country,20,8,120,9,2
+6,Spotify,Yes,Yes,EDM,22,2,120,4,0
+1,Spotify,Yes,Yes,Pop,17,3,120,1,1
+7,Spotify,No,No,Pop,27,2,120,7,3
+7,Spotify,Yes,Yes,Lofi,23,5,120,10,10
+4,YouTube Music,Yes,Yes,Classical,17,6,120,2,0
+5,Spotify,Yes,Yes,Rock,16,24,120,1,9
+7,Spotify,Yes,Yes,Pop,18,3,120,8,6
+8,YouTube Music,Yes,Yes,Pop,20,1,120,6,9
+5,Spotify,Yes,No,Classical,29,4,120,6,7
+1,Spotify,Yes,No,Rock,17,3,120,5,6
+9,Spotify,No,Yes,Pop,19,4,120,6,3
+4,Spotify,Yes,No,Metal,17,4,120,2,0
+8,Spotify,Yes,Yes,K pop,20,1,120,7,1
+4,Spotify,No,No,Country,26,1,120,1,1
+8,Spotify,Yes,No,Rock,16,8,120,9,5
+7,Spotify,Yes,Yes,Rock,17,2,120,6,0
+0,Spotify,No,Yes,EDM,20,3,121,3,7
+10,Spotify,Yes,No,Rock,19,3,121,8,6
+3,Spotify,Yes,No,Pop,20,1,121,2,3
+7,Apple Music,Yes,Yes,EDM,30,3,121,5,7
+5,YouTube Music,Yes,No,Pop,21,2,121,4,10
+10,Spotify,Yes,Yes,Hip hop,17,2,122,7,4
+3,Spotify,Yes,No,Classical,19,3,122,3,1
+5,Spotify,Yes,Yes,Pop,17,2,122,2,3
+4,Spotify,Yes,Yes,Rock,19,3,122,0,7
+3,YouTube Music,No,Yes,Jazz,24,1,122,2,1
+6,YouTube Music,Yes,No,Rock,17,3,122,3,6
+8,Spotify,No,No,Rock,18,2,123,4,3
+8,YouTube Music,No,Yes,Folk,18,4,123,6,4
+7,Spotify,Yes,Yes,K pop,18,5,124,4,5
+1,YouTube Music,Yes,No,EDM,19,8,125,0,0
+10,Spotify,Yes,No,Rap,17,4,125,10,2
+7,Spotify,Yes,No,Country,19,2,125,2,0
+2,YouTube Music,Yes,No,Rock,57,2,125,2,7
+5,Apple Music,Yes,No,Video game music,38,1,125,5,7
+8,Spotify,Yes,No,Rock,25,5,125,7,2
+5,Spotify,Yes,Yes,Metal,21,11,125,6,6
+6,Spotify,Yes,Yes,Pop,17,2,126,6,4
+8,Spotify,Yes,Yes,Rock,22,4,126,7,4
+7,Spotify,Yes,Yes,K pop,22,2,126,8,5
+7,Spotify,Yes,No,Pop,20,2,126,4,6
+5,Apple Music,Yes,Yes,Rock,19,3,126,2,8
+1,Spotify,Yes,Yes,Rap,16,2,126,8,0
+3,YouTube Music,Yes,Yes,K pop,18,12,126,7,5
+0,Apple Music,Yes,No,EDM,17,2,128,0,0
+2,Spotify,No,No,EDM,22,1,128,7,5
+4,Spotify,No,Yes,EDM,22,10,128,7,7
+9,Spotify,Yes,Yes,Folk,21,5,128,4,0
+6,Spotify,Yes,No,EDM,25,2,128,4,1
+10,Spotify,Yes,Yes,Rock,40,6,128,7,3
+4,Spotify,No,No,Pop,49,1,128,5,9
+2,Spotify,Yes,Yes,EDM,26,2,128,2,0
+10,Spotify,Yes,Yes,R&B,20,5,128,6,3
+10,Spotify,Yes,No,Video game music,13,1,128,10,8
+4,Spotify,No,No,Rock,30,1,129,2,1
+3,Spotify,No,No,Rock,60,1,129,2,5
+6,Spotify,Yes,Yes,R&B,18,4,129,4,1
+7,Spotify,Yes,Yes,Metal,16,5,129,4,8
+7,Spotify,Yes,No,Rock,18,5,130,6,5
+0,Spotify,No,Yes,Rock,24,3,130,0,8
+10,Apple Music,Yes,Yes,Metal,41,3,130,7,8
+7,Spotify,Yes,No,Rock,17,3,130,8,6
+4,Spotify,No,No,Folk,28,0.5,130,7,1
+4,Spotify,Yes,Yes,Pop,18,4,130,5,6
+6,Spotify,Yes,Yes,K pop,18,2,130,0,0
+8,Spotify,Yes,Yes,K pop,18,3,130,4,7
+6,Spotify,Yes,Yes,Pop,27,1,130,3,1
+10,Spotify,No,Yes,Rock,20,1,130,4,8
+4,Spotify,Yes,No,R&B,19,3,130,2,5
+10,Spotify,Yes,Yes,Metal,16,9,130,10,10
+7,Pandora,Yes,No,Hip hop,36,1,131,6,2
+7,Spotify,No,Yes,Video game music,18,4,132,7,10
+8,Spotify,No,No,Classical,36,1,132,9,3
+3,Spotify,No,Yes,Rock,31,1,132,10,0
+6,Spotify,Yes,Yes,Pop,20,2,132,2,2
+4,YouTube Music,Yes,Yes,Rock,60,2,132,4,2
+2,Spotify,Yes,No,Metal,27,8,132,6,9
+4,Spotify,Yes,,Rock,15,3,132,3,5
+6,Spotify,Yes,Yes,Jazz,27,10,132,10,8
+5,Spotify,Yes,No,Rock,63,2,133,4,6
+5,YouTube Music,Yes,No,Rock,58,1,133,6,3
+10,Apple Music,Yes,No,Metal,17,5,134,8,6
+9,Spotify,Yes,Yes,Rock,33,7,134,3,7
+3,Spotify,Yes,No,Pop,43,1,134,3,0
+3,Spotify,No,Yes,Video game music,25,4,134,0,0
+4,Spotify,Yes,Yes,Metal,33,2,134,8,0
+7,Spotify,No,Yes,Classical,17,4,135,9,2
+3,Spotify,No,No,Country,21,1,135,0,2
+2,Spotify,Yes,Yes,R&B,18,4,135,0,0
+8,Spotify,Yes,Yes,Rock,14,12,136,6,10
+6,Spotify,Yes,Yes,Pop,21,3,136,8,6
+0,YouTube Music,Yes,Yes,Metal,19,5,136,5,1
+10,Spotify,No,No,Rock,20,3,136,10,7
+7,Spotify,Yes,Yes,Rock,14,2,136,5,2
+8,YouTube Music,Yes,Yes,EDM,31,6,136,6,5
+6,Spotify,No,Yes,Rap,18,2,136,3,4
+5,YouTube Music,No,No,Metal,34,2,136,9,9
+0,YouTube Music,Yes,Yes,Metal,26,1,136,0,0
+8,YouTube Music,Yes,Yes,Folk,22,4,137,7,6
+10,Spotify,Yes,Yes,Folk,24,7,137,10,8
+4,YouTube Music,Yes,Yes,Rock,21,4,137,8,2
+9,Spotify,No,Yes,Metal,17,1,137,8,4
+9,YouTube Music,No,Yes,Rock,34,1,138,9,6
+6,Spotify,Yes,No,Rock,23,2,138,8,4
+1,Spotify,Yes,Yes,EDM,22,5,138,0,0
+10,Spotify,Yes,Yes,Rock,25,0.5,139,2,0
+10,Apple Music,No,Yes,Rap,23,1,140,6,3
+8,Spotify,No,No,Hip hop,29,4,140,8,5
+7,Spotify,No,No,Pop,16,3,140,5,5
+0,Spotify,Yes,Yes,Folk,27,5,140,9,4
+8,Apple Music,Yes,Yes,K pop,16,4,140,9,4
+8,Spotify,Yes,Yes,Jazz,22,6,140,8,7
+8,Spotify,Yes,Yes,Pop,26,4,140,7,2
+7,Spotify,Yes,No,Rap,13,10,140,2,0
+5,Spotify,Yes,No,EDM,22,3,140,4,2
+8,Apple Music,Yes,No,Rock,17,7,140,7,7
+6,Spotify,Yes,No,Pop,14,1,140,6,3
+1,YouTube Music,No,,Classical,14,1.5,140,2,4
+10,YouTube Music,Yes,No,EDM,18,10,140,9,9
+10,Spotify,Yes,Yes,R&B,14,9,140,8,9
+6,Spotify,Yes,Yes,EDM,29,8,140,7,4
+10,Spotify,Yes,Yes,Metal,15,4,140,7,3
+1,Spotify,No,No,Metal,26,3,140,3,10
+6,Spotify,Yes,Yes,Video game music,18,3,140,5,3
+8,Spotify,Yes,Yes,Pop,19,4,140,6,2
+6,Apple Music,Yes,No,Pop,20,2,141,3,0
+2,Spotify,Yes,No,Rock,19,5,141,2,0
+0,Spotify,Yes,Yes,Rock,23,2,141,5,7
+9,Spotify,Yes,No,Lofi,22,4,141,10,6
+5,Spotify,No,Yes,Rock,17,4,142,6,6
+1,Spotify,Yes,Yes,Metal,38,3,143,6,1
+0,Spotify,Yes,No,Rap,89,24,143,0,0
+10,Spotify,Yes,No,Rock,28,6,144,8,7
+6,Spotify,Yes,Yes,Rock,32,3,144,6,7
+7,Spotify,Yes,No,Hip hop,17,4,144,0,2
+10,Apple Music,No,No,Pop,16,2,145,3.5,5
+6,Pandora,Yes,No,Pop,15,2,145,0,0
+10,Spotify,,Yes,K pop,30,13,145,10,10
+9,Spotify,No,Yes,Rap,21,3,145,7,7
+5,Spotify,Yes,Yes,Pop,19,2,145,9,1
+1,Spotify,No,No,Metal,28,2,146,7,5
+3,Apple Music,Yes,Yes,R&B,65,6,146,5,0
+3,YouTube Music,No,No,Video game music,37,0.25,147,2,10
+0,Spotify,Yes,No,Folk,49,2,147,0,2
+7,Spotify,Yes,No,Rock,21,1,147,9,1
+7,Spotify,Yes,Yes,R&B,21,2,147,6,4
+6,Spotify,Yes,Yes,Jazz,18,4,148,4,7
+8,YouTube Music,Yes,Yes,Rock,42,2.5,148,8,7
+8,Spotify,No,Yes,R&B,17,2,148,6,10
+9,Spotify,Yes,Yes,R&B,17,3,148,10,10
+6,YouTube Music,Yes,Yes,Rock,20,8,148,2,2
+7,Spotify,Yes,Yes,Rock,20,2,148,9,7
+3,Spotify,No,Yes,Metal,18,2,149,4,6
+6,Spotify,Yes,No,Video game music,16,2,149,2,4
+9,Spotify,Yes,No,Pop,19,4,149,1,0
+9,YouTube Music,No,Yes,EDM,18,2,150,0,5
+3,Spotify,Yes,No,Metal,21,3,150,3,7
+8,Spotify,Yes,Yes,Metal,24,4,150,8,7
+9,Spotify,Yes,No,Metal,25,3,150,8,6
+3,Spotify,No,No,Hip hop,18,1.5,150,7,4
+9,Spotify,Yes,No,Jazz,23,1,150,7,2
+5,YouTube Music,Yes,Yes,Rock,16,3,150,7,1
+7.5,Spotify,Yes,Yes,Pop,16,4,150,5,7
+4,Spotify,Yes,Yes,Video game music,15,1,150,2,3
+5,YouTube Music,Yes,No,Pop,18,3,150,4,2
+10,Spotify,Yes,Yes,K pop,17,10,150,3,0
+3,Spotify,Yes,Yes,Metal,21,2,150,7,0
+10,Spotify,Yes,Yes,Video game music,22,3,150,10,6
+1,Pandora,Yes,Yes,R&B,53,4,153,0,0
+8,Spotify,Yes,Yes,Rap,18,3,155,9,0
+7,Spotify,Yes,No,Classical,16,2,155,5,3
+10,Spotify,Yes,Yes,Metal,21,4,155,6,8
+7,Spotify,Yes,Yes,Metal,31,2,155,4,8
+3,Spotify,Yes,Yes,Latin,18,3,156,0,1
+7,YouTube Music,Yes,No,Pop,19,4,156,10,5
+8,Spotify,No,Yes,Rock,16,0.5,156,0,0
+10,Spotify,Yes,Yes,EDM,26,6,156,10,8
+2,YouTube Music,Yes,No,Rock,55,15,156,0,3
+7,Spotify,Yes,Yes,Metal,18,5,157,9,5
+2,Spotify,Yes,No,Hip hop,32,3,157,0,7
+9,YouTube Music,Yes,Yes,Pop,31,9,158,0,2
+4,Spotify,No,No,Rock,32,2,158,7,0
+4,Spotify,Yes,Yes,K pop,19,5,158,2,2
+5,Spotify,Yes,Yes,Hip hop,26,14,158,10,8
+7,Spotify,Yes,No,Metal,24,2,159,6,2
+10,YouTube Music,No,Yes,K pop,19,1,160,1,0
+8,YouTube Music,Yes,No,Rock,19,3,160,7,4
+7,Spotify,Yes,No,Metal,30,5,160,6,6
+8,Spotify,Yes,No,Rock,21,3,160,9,2
+8,Spotify,Yes,No,Folk,26,3,160,8,3
+6,Spotify,No,Yes,Metal,19,1,160,4,0
+5,Spotify,Yes,Yes,Pop,17,2,160,4,1
+4,Apple Music,No,No,Rap,21,1,160,3,4
+7,Spotify,Yes,Yes,Rock,21,12,160,10,4
+3,Spotify,Yes,Yes,Pop,18,1,160,2,2
+7,Spotify,Yes,No,EDM,20,4,161,2,8
+7,Apple Music,No,No,Rock,23,3,161,6,4
+8,YouTube Music,Yes,No,Video game music,19,4,162,2,1
+8,Spotify,No,No,Rock,30,1,162,5,8
+6,Spotify,Yes,Yes,Lofi,21,8,162,5,9
+9,Apple Music,No,No,Country,29,1,163,3,2
+10,Spotify,Yes,Yes,Pop,19,5,163,8,1
+5,Spotify,Yes,Yes,R&B,18,2,164,6,0
+6,Spotify,Yes,Yes,Hip hop,26,2,165,3,1
+5,Spotify,Yes,No,Rock,18,1,165,6,8
+4,Spotify,Yes,Yes,Rock,35,6,166,1,3
+7,Spotify,Yes,Yes,Jazz,16,5,167,7,8
+7,Spotify,Yes,No,Hip hop,17,5,168,7,5
+7,Spotify,No,Yes,Pop,18,2,169,4,2
+7,Spotify,Yes,Yes,K pop,16,6,169,8,7
+3,Spotify,Yes,Yes,R&B,18,4,169,0,3
+5,Spotify,No,Yes,Metal,25,2,170,5,3
+6,Spotify,Yes,Yes,Rock,20,3,170,7,0
+3,Apple Music,Yes,Yes,Rap,18,2,170,2,0
+5,Spotify,No,No,Pop,21,2,170,6,3
+2,Spotify,Yes,No,Classical,19,5,170,3,2
+1,Spotify,Yes,Yes,Metal,27,3,171,0,0
+10,Apple Music,No,Yes,EDM,25,2,171,3,1
+9,Spotify,Yes,No,EDM,15,2,171,6,1
+8,Apple Music,Yes,Yes,Metal,21,5,171,7,7
+8,Spotify,Yes,Yes,Classical,23,2,171,7,6
+10,YouTube Music,Yes,No,Rock,28,2,172,8,6
+8,Spotify,No,Yes,Rock,26,8,172,10,7
+0,Spotify,Yes,No,Latin,17,12,172,3,9
+5,Spotify,Yes,Yes,Metal,36,6,174,4,10
+6,Spotify,Yes,No,EDM,19,8,174,8,8
+9,Spotify,Yes,Yes,EDM,20,2,174,7,5
+7,Spotify,Yes,Yes,Classical,17,1.5,174,5,1
+7,Spotify,Yes,Yes,Lofi,22,3,174,6,7
+6,Spotify,Yes,No,Gospel,57,2,174,4,10
+10,Spotify,Yes,Yes,K pop,16,3,174,2,7
+3,Spotify,Yes,Yes,Rock,40,5,174,0,0
+4,Spotify,Yes,Yes,Classical,24,4,175,6,5
+6,Spotify,No,Yes,Metal,41,3,178,5,4
+8,Spotify,Yes,Yes,Hip hop,28,4,178,5,3
+6,YouTube Music,No,No,Rock,21,1,179,5,0
+9,Spotify,Yes,Yes,Rock,25,3,180,6,3
+8,Spotify,Yes,Yes,Rock,17,1.5,180,7,7
+10,Spotify,Yes,Yes,Video game music,23,2,180,7,7
+10,Spotify,Yes,Yes,EDM,16,10,180,9,3
+2,Spotify,Yes,Yes,Metal,19,5,180,3,5
+9,Spotify,Yes,Yes,Video game music,24,6,180,5,0
+5,Spotify,Yes,Yes,Pop,17,5,180,5,5
+7,Spotify,Yes,Yes,Rock,24,10,180,9,10
+5,YouTube Music,Yes,No,Metal,20,4,180,2,1
+7,Spotify,Yes,No,Classical,14,2,181,5,3
+8,Apple Music,Yes,No,Pop,17,1,183,2,1
+5,Spotify,Yes,Yes,Metal,27,10,185,6,6
+10,Spotify,Yes,No,Metal,48,1.5,185,8,0
+6,Spotify,Yes,No,Folk,37,2,186,4,5
+9,Spotify,Yes,Yes,Metal,22,10,189,6,0
+6,Spotify,Yes,Yes,Metal,18,1,190,9,9
+1,Spotify,No,Yes,Metal,38,1,191,1,5
+8,Spotify,Yes,No,Rock,15,8,193,7,5
+8,Spotify,Yes,Yes,Metal,27,10,194,8,3
+8,Spotify,No,No,Rock,31,2,200,9,6
+7,Apple Music,Yes,No,Metal,20,3,200,4,7
+4,Spotify,Yes,Yes,EDM,30,1,200,4,4
+4,Spotify,Yes,Yes,Metal,27,3,200,0,0
+9,Spotify,Yes,Yes,Jazz,32,12,200,4,4
+4,Spotify,Yes,Yes,K pop,15,3,204,0,0
+7,Spotify,Yes,Yes,Pop,17,2,208,6,3
+9,Spotify,No,No,Metal,18,3,210,6,8
+8,Spotify,Yes,Yes,Metal,19,5,210,6,7
+6,Spotify,Yes,Yes,Metal,32,1,218,8,7
+0,Spotify,No,Yes,Metal,20,2,220,0,0
+4,Spotify,Yes,No,Video game music,16,7,110,8,8
+8,YouTube Music,No,No,Metal,42,2,120,3,6
+4,Spotify,No,Yes,Pop,21,1,120,9,6
+8,Spotify,Yes,Yes,Folk,21,1,120,4,0
+6,Spotify,Yes,No,Rock,18,2,120,7,4
+7,Spotify,Yes,Yes,Classical,29,5,120,2,2
+3,Apple Music,No,No,Classical,32,0.5,120,0,4
+5,Spotify,Yes,Yes,Classical,31,8,120,7,5
+7,Spotify,Yes,Yes,Metal,23,4,120,8,6
+7,Apple Music,Yes,No,Rock,28,2,120,5,2
+8,Spotify,Yes,Yes,Rock,18,5,120,8,8
+8,Spotify,Yes,Yes,Rock,27,20,120,10,10
+10,Spotify,No,Yes,Jazz,23,2,120,3,0
+9,Spotify,Yes,No,Rock,16,3,120,8,6
+7,Spotify,Yes,Yes,Metal,33,2,120,2,3
+6,Spotify,Yes,Yes,Rock,38,3,120,7,7
+10,YouTube Music,Yes,Yes,EDM,21,2,120,10,5
+9,YouTube Music,Yes,Yes,Metal,25,2,120,9,7
+7,Spotify,Yes,No,Folk,16,2,120,7,4
+8,Pandora,Yes,No,Classical,32,2,115,7,5
+7,Apple Music,No,No,Classical,19,3,115,6,4
+0,YouTube Music,Yes,No,Classical,12,2,115,0,3
+6,YouTube Music,Yes,No,Classical,24,6,115,7,2
+1,Spotify,No,No,Rock,23,1,115,0,1
+7,Spotify,Yes,Yes,Classical,17,2,115,8,2
+8,Spotify,Yes,Yes,Classical,12,2,115,0,1
+5,Spotify,Yes,No,Rock,18,6,115,1,6
+6,Spotify,Yes,Yes,Rock,25,4,115,2,3
+3,Spotify,No,No,Hip hop,27,1,115,4,1
+2,YouTube Music,Yes,No,Rock,54,10,115,1,2
+1,Spotify,No,No,Country,35,4,115,1,1
+4,Spotify,Yes,No,Country,22,6,115,8,2
+6,YouTube Music,No,No,Gospel,60,1,110,2,8
+8,Spotify,Yes,Yes,Rock,28,8,110,2,1
+8,YouTube Music,No,Yes,Metal,25,5,110,2,1
+5,YouTube Music,Yes,No,Classical,64,2,110,2,4
+7,Spotify,Yes,No,Pop,22,2,110,2,1
+0,Spotify,Yes,No,Rock,60,2,110,0,0
+8,Apple Music,No,No,Rock,67,2,110,2,0
+0,Spotify,Yes,No,Country,20,1.5,110,2,0
+6,YouTube Music,Yes,No,Folk,32,2,110,1,0
+1,Spotify,Yes,No,Pop,19,3,110,1,2
+5,Spotify,Yes,No,Pop,18,2,110,7,2
+3,Spotify,Yes,No,R&B,17,2,110,3,1
+4,Spotify,,,K pop,21,1,110,5,2
+10,Spotify,Yes,No,Pop,29,2,110,8,8
+4,YouTube Music,Yes,No,Video game music,13,1,110,3,4
+0,Spotify,Yes,Yes,Video game music,21,1,119,6,0
+7,Spotify,Yes,Yes,Rap,20,2,119,5,1
+2,YouTube Music,Yes,Yes,Video game music,21,2,119,2,0
+9,Spotify,Yes,No,Rock,31,1,119,10,10
+6,Spotify,Yes,Yes,Rock,26,1,119,1,0
+5,YouTube Music,Yes,Yes,Pop,21,0.5,119,3,4
+5,YouTube Music,No,No,Rock,17,2,119,10,2
+3,Spotify,Yes,Yes,Hip hop,18,7,119,1,0
+5,Spotify,Yes,Yes,Rap,18,2,119,8,7
+8,Spotify,Yes,No,R&B,18,4,119,0,0
+8,YouTube Music,Yes,Yes,Pop,20,1,119,9,6
+8,Spotify,Yes,Yes,Rock,23,1,119,6,1
+5,Spotify,No,Yes,Rock,23,2,119,7,10
