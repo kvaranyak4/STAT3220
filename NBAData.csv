@@ -1,31 +1,31 @@
-﻿Team,ArenaName,Conference,AvgOriginal,Payroll,Hotdog,Beer,Parking,Playoffs19,SRS19,Attend19,AvgResale
-Atlanta Hawks,State Farm Arena,E,36.82,134273339.00,6,10,26.6,No,-7.71,16043.00,107.00
-Boston Celtics,TD Garden,E,66.49,134479372.00,12.5,25,35.63,Yes,5.83,19090.00,154.00
-Brooklyn Nets,Barclays Center,E,66.15,172836362.00,14,24,46,Yes,-1.01,16403.00,242.00
-Charlotte Hornets,Spectrum Center,E,30.60,120990744.00,8,14,14,No,-7.03,15428.00,64.00
-Chicago Bulls,United Center,E,82.33,136118673.00,13,18.5,24,No,-4.00,18804.00,133.00
-Cleveland Cavaliers,Rocket Mortgage FieldHouse,E,48.12,134807579.00,11.5,8,20,No,-7.77,17861.00,72.00
-Dallas Mavericks,American Airlines Center,W,49.76,146277124.00,10.5,20,17.29,No,4.87,20062.00,110.00
-Denver Nuggets,Pepsi Center,W,52.38,139598426.00,11,19,15,Yes,2.35,19186.00,154.00
-Detroit Pistons,Little Caesars Arena,E,31.42,129107124.00,9.5,10,16.5,Yes,-4.38,15294.00,69.00
-Golden State Warriors,Oracle Arena,W,79.84,184024769.00,14,25,35,Yes,-8.12,18064.00,458.00
-Houston Rockets,Toyota Center,W,67.24,131228440.00,13,18,14.24,Yes,3.13,18077.00,189.00
-Indiana Pacers,Bankers Life Fieldhouse,E,38.97,136079770.00,10.5,17,15,Yes,1.63,16531.00,94.00
-Los Angeles Clippers,Staples Center,W,79.83,166162398.00,13,19.5,18,Yes,6.66,19068.00,267.00
-Los Angeles Lakers,Staples Center,W,103.27,160861720.00,13,19.5,18,No,6.28,18997.00,444.00
-Memphis Grizzlies,FedExForum,W,31.48,115994102.00,11.5,17,18,No,-0.91,15857.00,73.00
-Miami Heat,AmericanAirlines Arena,E,76.73,138804919.00,15,26,25,No,2.59,19680.00,150.00
-Milwaukee Bucks,Fiserv Forum,W,50.30,161923369.00,15,20,15,Yes,9.41,17711.00,132.00
-Minnesota Timberwolves,Target Center,W,37.27,165399845.00,12,20,10,No,-4.02,15066.00,58.00
-New Orleans Pelicans,Smoothie King Center,W,30.20,134663536.00,11,22,12,No,-0.55,16505.00,105.00
-New York Knicks,Madison Square Garden,E,129.38,120376240.00,17,25,50,No,-6.72,18812.00,261.00
-Oklahoma City Thunder,Chesapeake Energy Arena,W,55.10,90513233.00,10.5,15,10,Yes,2.33,18203.00,137.00
-Orlando Magic,Amway Center,E,39.40,128381240.00,10,15,23.67,Yes,-0.93,17093.00,87.00
-Philadelphia 76ers,Wells Fargo Center,E,38.46,157918194.00,11,21,20.92,Yes,2.25,20629.00,150.00
-Phoenix Suns,Talking Stick Resort Arena,W,56.10,135402949.00,9,25,17.5,No,0.56,15606.00,85.00
-Portland Trail Blazers,Moda Center,W,53.43,131015888.00,12,20,20,Yes,-0.61,19634.00,103.00
-Sacramento Kings,Golden 1 Center,W,47.89,133876503.00,10,24,20,No,-1.59,16796.00,107.00
-San Antonio Spurs,AT&T Center,W,54.88,126419926.00,11.5,14,10,Yes,-0.65,18351.00,177.00
-Toronto Raptors,Scotiabank Arena,E,48.11,149214621.00,11.72,17.38,13.86,Yes,5.97,19796.00,179.00
-Utah Jazz,Vivint Smart Home Arena,W,43.19,147734336.00,14,16.5,10,Yes,2.52,18306.00,117.00
-Washington Wizards,Capital One Arena,E,51.21,155635311.00,11.5,20,21.4,No,-5.24,16647.00,92.00
+﻿Team,ArenaName,Conference,Playoffs19,AvgOriginal,Payroll,Hotdog,Beer,Parking,SRS19,Attend19,AvgResale
+Atlanta Hawks,State Farm Arena,E,No,36.82,134273339.00,6,10,26.6,-7.71,16043.00,107.00
+Boston Celtics,TD Garden,E,Yes,66.49,134479372.00,12.5,25,35.63,5.83,19090.00,154.00
+Brooklyn Nets,Barclays Center,E,Yes,66.15,172836362.00,14,24,46,-1.01,16403.00,242.00
+Charlotte Hornets,Spectrum Center,E,No,30.60,120990744.00,8,14,14,-7.03,15428.00,64.00
+Chicago Bulls,United Center,E,No,82.33,136118673.00,13,18.5,24,-4.00,18804.00,133.00
+Cleveland Cavaliers,Rocket Mortgage FieldHouse,E,No,48.12,134807579.00,11.5,8,20,-7.77,17861.00,72.00
+Dallas Mavericks,American Airlines Center,W,No,49.76,146277124.00,10.5,20,17.29,4.87,20062.00,110.00
+Denver Nuggets,Pepsi Center,W,Yes,52.38,139598426.00,11,19,15,2.35,19186.00,154.00
+Detroit Pistons,Little Caesars Arena,E,Yes,31.42,129107124.00,9.5,10,16.5,-4.38,15294.00,69.00
+Golden State Warriors,Oracle Arena,W,Yes,79.84,184024769.00,14,25,35,-8.12,18064.00,458.00
+Houston Rockets,Toyota Center,W,Yes,67.24,131228440.00,13,18,14.24,3.13,18077.00,189.00
+Indiana Pacers,Bankers Life Fieldhouse,E,Yes,38.97,136079770.00,10.5,17,15,1.63,16531.00,94.00
+Los Angeles Clippers,Staples Center,W,Yes,79.83,166162398.00,13,19.5,18,6.66,19068.00,267.00
+Los Angeles Lakers,Staples Center,W,No,103.27,160861720.00,13,19.5,18,6.28,18997.00,444.00
+Memphis Grizzlies,FedExForum,W,No,31.48,115994102.00,11.5,17,18,-0.91,15857.00,73.00
+Miami Heat,AmericanAirlines Arena,E,No,76.73,138804919.00,15,26,25,2.59,19680.00,150.00
+Milwaukee Bucks,Fiserv Forum,W,Yes,50.30,161923369.00,15,20,15,9.41,17711.00,132.00
+Minnesota Timberwolves,Target Center,W,No,37.27,165399845.00,12,20,10,-4.02,15066.00,58.00
+New Orleans Pelicans,Smoothie King Center,W,No,30.20,134663536.00,11,22,12,-0.55,16505.00,105.00
+New York Knicks,Madison Square Garden,E,No,129.38,120376240.00,17,25,50,-6.72,18812.00,261.00
+Oklahoma City Thunder,Chesapeake Energy Arena,W,Yes,55.10,90513233.00,10.5,15,10,2.33,18203.00,137.00
+Orlando Magic,Amway Center,E,Yes,39.40,128381240.00,10,15,23.67,-0.93,17093.00,87.00
+Philadelphia 76ers,Wells Fargo Center,E,Yes,38.46,157918194.00,11,21,20.92,2.25,20629.00,150.00
+Phoenix Suns,Talking Stick Resort Arena,W,No,56.10,135402949.00,9,25,17.5,0.56,15606.00,85.00
+Portland Trail Blazers,Moda Center,W,Yes,53.43,131015888.00,12,20,20,-0.61,19634.00,103.00
+Sacramento Kings,Golden 1 Center,W,No,47.89,133876503.00,10,24,20,-1.59,16796.00,107.00
+San Antonio Spurs,AT&T Center,W,Yes,54.88,126419926.00,11.5,14,10,-0.65,18351.00,177.00
+Toronto Raptors,Scotiabank Arena,E,Yes,48.11,149214621.00,11.72,17.38,13.86,5.97,19796.00,179.00
+Utah Jazz,Vivint Smart Home Arena,W,Yes,43.19,147734336.00,14,16.5,10,2.52,18306.00,117.00
+Washington Wizards,Capital One Arena,E,No,51.21,155635311.00,11.5,20,21.4,-5.24,16647.00,92.00
