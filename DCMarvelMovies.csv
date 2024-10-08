@@ -1,0 +1,51 @@
+﻿Movie,USA_Gross,Year,Category,Time,Rating,IMDB_Score,Metascore
+Ant-Man,180.20,2015.00,Marvel,117.00,PG-13,7.30,64.00
+Ant-Man and the Wasp,216.65,2018,Marvel,118.00,PG-13,7.00,70.00
+Aquaman,335.06,2018,DC,143.00,PG-13,6.90,55.00
+Avengers: Age of Ultron,459.01,2015,Marvel,141.00,PG-13,7.30,66.00
+Avengers: Endgame,858.37,2019,Marvel,181,PG-13,8.40,78.00
+Avengers: Infinity War,678.82,2018,Marvel,149,PG-13,8.40,68.00
+Batman,251.19,1989,DC,126,PG-13,7.50,69.00
+Batman & Robin,107.33,1997,DC,125,PG-13,3.80,28.00
+Batman Begins,206.85,2005,DC,140,PG-13,8.20,70.00
+Batman Forever,184.03,1995,DC,121,PG-13,5.40,51.00
+Batman Returns,162.83,1992,DC,126,PG-13,7.00,68.00
+Batman v Superman: Dawn of Justice,330.36,2016,DC,152,PG-13,6.40,44.00
+Black Panther,700.06,2018,Marvel,134,PG-13,7.30,88.00
+Captain America: Civil War,408.08,2016,Marvel,147,PG-13,7.80,75.00
+Captain America: The First Avenger,176.65,2011,Marvel,124,PG-13,6.90,66.00
+Captain America: The Winter Soldier,259.77,2014,Marvel,136,PG-13,7.70,70.00
+Captain Marvel,426.83,2019,Marvel,123,PG-13,6.90,64.00
+Catwoman,40.20,2004,DC,104,PG-13,3.40,27.00
+Constantine,75.98,2005,DC,121,R,7.00,50.00
+Doctor Strange,232.64,2016,Marvel,115,PG-13,7.50,72.00
+Fantastic 4: Rise of the Silver Surfer,131.92,2007,Marvel,92,PG,5.60,45.00
+Green Lantern,116.60,2011,DC,114,PG-13,5.50,39.00
+Guardians of the Galaxy,333.18,2014,Marvel,121,PG-13,8.00,76.00
+Guardians of the Galaxy Vol. 2,389.81,2017,Marvel,136,PG-13,7.60,67.00
+Iron Man,318.41,2008,Marvel,126,PG-13,7.90,79.00
+Iron Man 2,312.43,2010,Marvel,124,PG-13,7.00,57.00
+Iron Man 3,409.01,2013,Marvel,130,PG-13,7.10,62.00
+Joker,335.45,2019,DC,122,R,8.40,59.00
+Man of Steel,291.05,2013,DC,143,PG-13,7.00,55.00
+Punisher: War Zone,7.95,2008,Marvel,103,R,5.90,30.00
+Shazam!,140.37,2019,DC,132,PG-13,7.00,71.00
+Spider-Man 3,336.53,2007,Marvel,139,PG-13,6.20,59.00
+Spider-Man: Far from Home,390.53,2019,Marvel,129,PG-13,7.50,69.00
+Spider-Man: Homecoming,334.20,2017,Marvel,133,PG-13,7.40,73.00
+Suicide Squad,325.10,2016,DC,123,PG-13,5.90,40.00
+Supergirl,13.60,1984,DC,124,PG,4.40,42.00
+Superman,134.22,1978,DC,143,PG,7.30,80.00
+Superman II,108.19,1980,DC,127,PG,6.80,83.00
+Superman III,59.95,1983,DC,125,PG,5.00,44.00
+Superman Returns,200.08,2006,DC,154,PG-13,6.00,72.00
+The Avengers,623.28,2012,Marvel,143,PG-13,8.00,69.00
+The Dark Knight,534.86,2008,DC,152,PG-13,9.00,84.00
+The Dark Knight Rises,448.14,2012,DC,164,PG-13,8.40,78.00
+The Incredible Hulk,134.52,2008,Marvel,112,PG-13,6.70,61.00
+Thor,181.03,2011,Marvel,115,PG-13,7.00,57.00
+Thor: Ragnarok,315.06,2017,Marvel,130,PG-13,7.90,74.00
+Thor: The Dark World,206.36,2013,Marvel,112,PG-13,6.90,54.00
+V for Vendetta,70.51,2005,DC,132,R,8.10,62.00
+Watchmen,107.51,2009,DC,162,R,7.60,56.00
+Wonder Woman 1984,46.37,2020,DC,151,PG-13,5.40,60.00
